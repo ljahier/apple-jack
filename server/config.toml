@@ -1,0 +1,7 @@
+[server]
+port = 9090
+
+[s3]
+bucket = "ikodev-object-storage"
+region = "gra"
+endpoint = "https://s3.gra.cloud.ovh.net"
